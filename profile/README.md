@@ -16,6 +16,14 @@ source-available under the Panda Engine License.
 Panda is in early development: preview builds come out often, and APIs and file formats still
 change.
 
+## Libraries
+
+Parts of the engine that are useful on their own, under the MIT License. They live in the engine
+repository; these are their read-only mirrors.
+
+- [Rain](https://github.com/toyship-studio/Rain): field reflection and serialization of C++ data
+  to JSON, YAML and a compact binary format.
+
 ## Contact
 
 [toyship.studio](https://toyship.studio) · hello@toyship.studio
